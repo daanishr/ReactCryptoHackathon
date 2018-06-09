@@ -5,9 +5,14 @@ To run
 cd to directory
 
 #yarn
-[yarn]
-[yarn start]
+```
+yarn
+yarn start
+```
 
 #npm
-[npm i]
-[npm start]
+
+```
+npm i
+npm start
+```
